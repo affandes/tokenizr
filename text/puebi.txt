@@ -1,0 +1,536 @@
+Kata Dasar	Kantor pajak penuh sesak.
+Kata Dasar	Saya pergi ke sekolah.
+Kata Dasar	Buku itu sangat tebal.
+Kata Berimbuhan	Anak Pak Budi sudah bisa berjalan sendiri.
+Kata Berimbuhan	Manfaat yang berkelanjutan harus jadi prioritas.
+Kata Berimbuhan	Teknologi informasi dapat mempermudah transaksi jual beli.
+Kata Berimbuhan	Tangannya gemetar kedinginan.
+Kata Berimbuhan	Lukisan itu mahal karena dilukis dengan tangan.
+Kata Berimbuhan	Dimana ada kemauan, disitu ada jalan.
+Kata Berimbuhan	Gubernur Riau tinjau lokasi perbaikan jalan di desa Cinta Kasih
+Kata Berimbuhan	Sukuisme adalah suatu paham yang memandang bahwa suku bangsanya lebih baik dibandingkan dengan suku bangsa yang lain.
+Kata Berimbuhan	Ia bekerja sebagai seorang seniman kontemporer
+Kata Berimbuhan	Ani berangkat meliput bersama seorang kamerawan
+Kata Berimbuhan	Dia seorang gerejawi
+Kata Berimbuhan	Di puncak kasta seni busana itu berdiri adibusana yang tak tersentuh dan sulit pula dipahami oleh masyarakat awam.
+Kata Berimbuhan	Aerodinamika berasal dari bahasa Yunani yakni aero yang berarti udara dan dinamis yang berarti gaya gerak. 
+Kata Berimbuhan	Kami naik bus antarkota 
+Kata Berimbuhan	Penggunaan antibiotik seharusnya atas resep dokter.
+Kata Berimbuhan	Demikian penjelasan singkat dari arti kata awahama berdasarkan Kamus Besar Bahasa Indonesia.
+Kata Berimbuhan	Natrium bikarbonat juga dikenal dengan baking soda. 
+Kata Berimbuhan	Mandat Mengembangkan ilmu dasar, konsep dan metode dalam bidang biokimia.
+Kata Berimbuhan	Satuan dekameter disingkat adalah dam.
+Kata Berimbuhan	Mengapa demoralisasi dalam masyarakat merupakan salah satu faktor pendorong kemiskinan?
+Kata Berimbuhan	Sang Saka Merah Putih atau Sang Dwiwarna.
+Kata Berimbuhan	Pengunaan ekabahasa belum tentu menjamin perpaduan negara.
+Kata Berimbuhan	Bukan hanya ekstrakurikuler basket yang paling diminati.
+Kata Berimbuhan	Pembangunan infrastruktur jalan raya belum juga selesai.
+Kata Berimbuhan	Pemilihan kepala desa itu dilakukan secara inkonvensional.
+Kata Berimbuhan	Dalam kedokteran, kontraindikasi adalah suatu kondisi atau faktor yang berfungsi sebagai alasan untuk mencegah tindakan medis tertentu karena bahaya yang akan didapatkan pasien. 
+Kata Berimbuhan	Proposal tersebut bahkan mendapat tanggapan baik dari Amerika Serikat, meski belum menyatakan kesediannya menjadi kosponsor. 
+Kata Berimbuhan	Mei 2019, Jumlah Wisatawan Mancanegara ke Aceh Turun 50 Persen.
+Kata Berimbuhan	Kepentingan Indonesia adalah konteks multilateral, karena kalau situasi sekarang dibiarkan, upaya kita akan sulit dalam enam bulan ke depan.
+Kata Berimbuhan	Sedang heboh terkait isu adanya narapidana yang mempunyai kelainan seksual.
+Kata Berimbuhan	Pelajaran langsung berbasis IT dengan berkolaborasi dan non kolaborasi pada mata pelajaran fisika di tinjau dari kemampuan aljabar siswa. 
+Kata Berimbuhan	Jumlah masjid paripurna masih sangat sedikit.
+Kata Berimbuhan	Ini bedanya mahasiswa di jenjang sarjana dengan pascasarjana.
+Kata Berimbuhan	Untuk itu seseorang pramusaji harus mandi 3 kali sehari.
+Kata Berimbuhan	Nusantara pada periode prasejarah mencakup suatu periode yang sangat panjang.
+Kata Berimbuhan	Salah satu ciri orang yang sukses adalah orang yang proaktif. 
+Kata Berimbuhan	Para purnawirawan TNI disarankan mendirikan partai politik untuk menyuarakan aspirasi dan kepentingannya. 
+Kata Berimbuhan	Saptakrida adalah tujuh program kabinet pembangunan ke-2 dari pemerintahan orde baru
+Kata Berimbuhan	Mengapa jabatan guru termasuk jabatan yang semiprofesional? 
+Kata Berimbuhan	Subbagian digunakan untuk memecah artikel menjadi bagian-bagian. 
+Kata Berimbuhan	Masjid yang megah itu dibangun atas swadaya masyarakat setempat
+Kata Berimbuhan	Telewicara ini merupakan upaya badan ruang angkasa Amerika NASA untuk mendorong minat kaum muda terhadap sains dan antariksa.
+Kata Berimbuhan	Tahun 2019 pemerintah akan membuka lahan pemukiman transmigrasi di 10 provinsi
+Kata Berimbuhan	Tunakarya merupakan sebutan bagi orang yang tidak memiliki perkerjaan 
+Kata Berimbuhan	Apakah ajaran tritunggal itu.
+Kata Berimbuhan	Seperti menonton film tansuara.
+Kata Berimbuhan	Banyak film bertema masyarakat ultramodern, namun dengan konflik yang lama.
+Kata Berimbuhan	Produk non-Indonesia banyak beredar di pasaran.
+Kata Berimbuhan	Kami tidak mengenal tentang pan-Afrikanisme.
+Kata Berimbuhan	Tak Lagi Pro-Barat, Eurasianisme Bangkit di Kebijakan Luar Negeri Turki
+Kata Berimbuhan	Inilah 10 Negara Non-ASEAN yang Bisa Kamu Kunjungi Tanpa Visa
+Kata Berimbuhan	AS Tahu Gerakan Anti-PKI 1965
+Kata Berimbuhan	Tuhan Yang Mahakuasa menentukan arah hidup kita.
+Kata Berimbuhan	Mudah-mudahan Tuhan Yang Maha Esa melindungi kita.
+Bentuk Ulang	Beberapa di antara pengungsi adalah balita dan anak-anak.
+Bentuk Ulang	Jual beli buku-buku bekas.
+Bentuk Ulang	Kita harus hati-hati pada saat menyeberang jalan.
+Bentuk Ulang	Pertama-tama kita harus mengokohkan kuda-kuda.
+Bentuk Ulang	Dia membantah dituduh sebagai seorang mata-mata.
+Bentuk Ulang	Selain sapi, dia juga beternak biri-biri.
+Bentuk Ulang	Hari ini masak cumi-cumi digoreng tepung.
+Bentuk Ulang	Adik bahagia sekali ketika melihat kupu-kupu berwarna-warni.
+Bentuk Ulang	Seperti kura-kura berlari.
+Bentuk Ulang	Usapkan perlahan di ubun-ubun.
+Bentuk Ulang	Adik mengantarkan lauk-pauk pesanan orang lain.
+Bentuk Ulang	Dia mondar-mandir seperti mencari sesuatu yang hilang.
+Bentuk Ulang	Indonesia adalah negeri yang ramah-tamah.
+Bentuk Ulang	Serat dapat dipenuhi dengan mengkonsumsi sayur-mayur.
+Bentuk Ulang	Seiring berjalannya waktu, serba serbi makanan dan minuman pun semakin banyak.
+Bentuk Ulang	Setiap hari minggu kami berjalan-jalan di area car free day.
+Bentuk Ulang	Dia sibuk mencari-cari kunci mobilnya di dalam masjid.
+Bentuk Ulang	Jika ini dibiarkan terus-menerus akan semakin fatal.
+Bentuk Ulang	Puluhan rumah porak-poranda akibat angin puting beliung.
+Bentuk Ulang	Maling itu akhirnya lari tunggang-langgang ke dalam hutan.
+Bentuk Ulang	Amin mengumpilkan surat-surat kabar bekas untuk dijual.
+Bentuk Ulang	Biasanya disini dipadati oleh kapal-kapal barang yang ingin berlabuh.
+Bentuk Ulang	Perpustakaan kami kembali mengadakan rak-rak buku baru.
+Bentuk Ulang	Berikut daftar kereta-kereta api cepat di dunia.
+Gabungan Kata	Tidak disangkat Roni sekarang menjadi duta besar di Thailand.
+Gabungan Kata	Sibuk mencari kambing hitam saja.
+Gabungan Kata	Berbaikti kepada kedua orang tua itu wajib.
+Gabungan Kata	Setelah ketemu simpang empat, belok ke kiri.
+Gabungan Kata	Adapun mata acara pertama adalah kata sambutan oleh ketua masjid.
+Gabungan Kata	Semua model-model yang linear dalam parameter dapat dikelompokkan dalam model linear.
+Gabungan Kata	Carilah luas persegi panjang tersebut!
+Gabungan Kata	Setelah Pilpres ini, rumah sakit jiwa semakin penuh.
+Gabungan Kata	Tomi minta dibelikan meja tulis.
+Gabungan Kata	Kami menjual cendera mata dari batok kelapa.
+Gabungan Kata	Dia adalah anak-istri pejabat
+Gabungan Kata	Dia adalah anak istri-pejabat
+Gabungan Kata	Ya Tuhan, selamatkanlah ibu-bapak kami.
+Gabungan Kata	Ya Tuhan, selamatkanlah ibu bapak-kami
+Gabungan Kata	Kami mengkoleksi buku-sejarah baru.
+Gabungan Kata	Kami mengkoleksi buku sejarah-baru
+Gabungan Kata	Semua bertepuk tangan setelah menyaksikan peristiwa tadi.
+Gabungan Kata	Keringatnya menganak sungai.
+Gabungan Kata	Garis bawahi semua yang penting.
+Gabungan Kata	Sebar luaskan berita baik ini kepada seluruh keluarga besar kita.
+Gabungan Kata	Amal ibadah apa yang pahalanya dilipatgandakan?
+Gabungan Kata	Dosen itu menggarisbawahi semua tulisan yang keliru dalam skripsi mahasiswanya.
+Gabungan Kata	Banyak oknum menyebarluaskan berita hoaks di sosial media.
+Gabungan Kata	Penghancurleburan barang bukti disaksikan oleh Kapolri.
+Gabungan Kata	Ini adalah bentuk pertanggungjawaban panitia kepada masyarakat.
+Gabungan Kata	Acapkali berita hoaks itu disebarkan tanpa mengklarifikasi kebenarannya terlebih dahulu.
+Gabungan Kata	Adakalanya yang di bawah akan menjadi seorang pemimpin.
+Gabungan Kata	Kalau pemimpin sudah seperti itu, apalagi yang bisa diharapkan.
+Gabungan Kata	Bagaimana rasanya jika tinggal kelas?
+Gabungan Kata	Barangkali lelah ini akan terbayar.
+Gabungan Kata	Pengumuman beasiswa sudah lama dipublikasikan.
+Gabungan Kata	Kami turut menyatakan belasungkawa atas kejadian ini.
+Gabungan Kata	Bilamana sudah larut malam, maka sebaiknya kita tidur.
+Gabungan Kata	Kami sudah lama berinteraksi dengan masyarakat bumiputra di Malaysia.
+Gabungan Kata	Ini sebagai darmabakti kami kepada negeri.
+Gabungan Kata	Momen dukacita itu menjadi kenangan pahit 
+Gabungan Kata	Hulubalang LAM Riau hari ini dikukuhkan.
+Gabungan Kata	Saya lupa membawa kacamata.
+Gabungan Kata	Secara kasatmata tidak terlihat, tetapi dapat dirasakan.
+Gabungan Kata	Kami menghitung dalam satuan kilometer.
+Gabungan Kata	Tugas itu tidak diwajibkan, melainkan manasuka saja.
+Gabungan Kata	Dari tadi pagi matahari tertutup awan tebal.
+Gabungan Kata	Tahun ini akan ditambah beberapa cabang olahraga yang diperlombakan.
+Gabungan Kata	Belum ada yang datang, padahal saat ini sudah pukul 9 pagi.
+Gabungan Kata	Kami belajar peribahasa hari ini.
+Gabungan Kata	Selain kompetensi, perilaku juga harus dipertimbangkan.
+Gabungan Kata	Lagu ketawang Puspawarna biasanya dibunyikan untuk tanda masuknya pangeran.
+Gabungan Kata	Hati-hati bahaya radioaktif.
+Gabungan Kata	Prajurit TNI wajib berpedoman pada saptamarga.
+Gabungan Kata	Tidak seharipun dia ketinggalan saputangan di saku celananya.
+Gabungan Kata	Khasiat saripati ayam sangat banyak.
+Gabungan Kata	Tidak dapat kembali seperti sediakala.
+Gabungan Kata	Buatlah aplikasi untuk menghitung luas segitiga!
+Gabungan Kata	Saling berbagi momen sukacita ini bersama keluarga.
+Gabungan Kata	Lebih baik jika membantu secara sukarela.
+Gabungan Kata	Kapal kami akhirnya diizinkan berangkat oleh syahbandar.
+Gabungan Kata	Pekerjaan orang tuanya bukan wiraswasta, tetapi pegawai negeri.
+Kata Depan	Di mana dia sekarang?
+Kata Depan	Kain itu disimpan di dalam lemari.
+Kata Depan	Dia ikut terjun ke tengah kancah perjuangan.
+Kata Depan	Mari kita berangkat ke kantor.
+Kata Depan	Saya pergi ke sana mencarinya.
+Kata Depan	Ia berasal dari Pulau Penyengat.
+Kata Depan	Cincin itu terbuat dari emas.
+Partikel	Bacalah buku itu baik-baik!
+Partikel	Apakah yang tersirat dalam surat itu?
+Partikel	Siapakah gerangan dia?
+Partikel	Apatah gunanya bersedih hati?
+Partikel	Apa pun permasalahan yang muncul, dia dapat mengatasinya dengan bijaksana.
+Partikel	Jika kita hendak pulang tengah malam pun, kendaraan masih tersedia.
+Partikel	Jangankan dua kali, satu kali pun engkau belum pernah berkunjung ke rumahku.
+Partikel	Meskipun sibuk, dia dapat menyelesaikan tugas tepat pada waktunya.
+Partikel	Dia tetap bersemangat walaupun lelah.
+Partikel	Adapun penyebab kemacetan itu belum diketahui.
+Partikel	Bagaimanapun pekerjaan itu harus selesai minggu depan.
+Partikel	Mereka masuk ke dalam ruang rapat satu per satu.
+Partikel	Harga kain itu Rp50.000,00 per meter.
+Partikel	Karyawan itu mendapat kenaikan gaji per 1 Januari.
+Singkatan dan Akronim	Namanya adalah A.H. Nasution
+Singkatan dan Akronim	Namanya adalah H. Hamid
+Singkatan dan Akronim	Namanya adalah Suman Hs.
+Singkatan dan Akronim	Namanya adalah W.R. Supratman
+Singkatan dan Akronim	Namanya adalah Asep Surasep, M.B.A.
+Singkatan dan Akronim	Namanya adalah Asep Surasep, M.Hum.
+Singkatan dan Akronim	Namanya adalah Asep Surasep, M.Si.
+Singkatan dan Akronim	Namanya adalah Asep Surasep, S.E.
+Singkatan dan Akronim	Namanya adalah Asep Surasep, S.Sos.
+Singkatan dan Akronim	Namanya adalah Asep Surasep, S.Kom.
+Singkatan dan Akronim	Namanya adalah Asep Surasep, S.K.M.
+Singkatan dan Akronim	Namanya adalah Sdr. Asep Surasep
+Singkatan dan Akronim	Namanya adalah Kol. Darmawati
+Singkatan dan Akronim	Jagalah kedaulatan NKRI
+Singkatan dan Akronim	Jadwal pendaftaran mahasiswa baru UI telah ditutup.
+Singkatan dan Akronim	Akhir-akhir ini banyak berita tentang PBB.
+Singkatan dan Akronim	Semua dikelola oleh WHO.
+Singkatan dan Akronim	Ketua PGRI Riau 
+Singkatan dan Akronim	Misalnya, dalam UU ITE tidak terdapat pengertian tentang pencemaran nama baik. Dengan merujuk Pasal 310 ayat (1) KUHP, pencemaran nama baik diartikan sebagai perbuatan menyerang kehormatan atau nama baik seseorang dengan menuduhkan sesuatu hal yang maksudnya terang supaya hal itu diketahui umum.
+Singkatan dan Akronim	Saya tidak tahu bagaimana mengurus pendirian PT
+Singkatan dan Akronim	Khusus untuk MAN
+Singkatan dan Akronim	Khusus untuk SD
+Singkatan dan Akronim	Pemilik KTP palsu
+Singkatan dan Akronim	Pengurusan SIM kendaraan bermotor
+Singkatan dan Akronim	Serah terima NIP bagi CPNS 2019
+Singkatan dan Akronim	Perhatikan pada hlm. 15
+Singkatan dan Akronim	perangkat keras, dll.
+Singkatan dan Akronim	Dapat menggunakan umbi-umbian seperti ubi kayu, ubi manis, dsb.
+Singkatan dan Akronim	Menimbang dst.
+Singkatan dan Akronim	Ulangi proses fermentasi sda.
+Singkatan dan Akronim	Kepada ybs. diwajibkan melapor satu kali 24 jam.
+Singkatan dan Akronim	Kepada yth. Asep Surasep di Pekanbaru
+Singkatan dan Akronim	ttd. Ketua Pengurus
+Singkatan dan Akronim	Ahmad Albar, dkk.
+Singkatan dan Akronim	a.n. Bangsa Indonesia
+Singkatan dan Akronim	Di resi bingkisan tersebut tertulis d.a. Daanmogot KM 22
+Singkatan dan Akronim	Demikian informasi u.b. agar dapat disampaikan sebagaimana mestinya.
+Singkatan dan Akronim	u.p. Administrator Aplikasi
+Singkatan dan Akronim	Pukul 10.00 s.d. selesai
+Singkatan dan Akronim	Mengandung unsur senyawa Cu dan C.
+Singkatan dan Akronim	Total 23 cm
+Singkatan dan Akronim	Daya 1000 kVA
+Singkatan dan Akronim	Volume 22 l
+Singkatan dan Akronim	Berat 12 kg
+Singkatan dan Akronim	Rp500.000 dikurangi diskon
+Singkatan dan Akronim	Dia sudah lama bekerja di BIG
+Singkatan dan Akronim	Dia sudah lama bekerja di BIN
+Singkatan dan Akronim	Dia sudah lama bekerja di LIPI
+Singkatan dan Akronim	Dia sudah lama bekerja di LAN
+Singkatan dan Akronim	Dia sudah lama bekerja di PASI
+Singkatan dan Akronim	Dia sudah lama bekerja di Bulog
+Singkatan dan Akronim	Dia sudah lama bekerja di Bappenas
+Singkatan dan Akronim	Dia sudah lama bekerja di Kowani
+Singkatan dan Akronim	Dia sudah lama bekerja di Kalteng
+Singkatan dan Akronim	Dia sudah lama bekerja di Mabbim
+Singkatan dan Akronim	Kami melintasi jembatan Suramadu
+Singkatan dan Akronim	Perkembangan iptek saat ini sangat cepat.
+Singkatan dan Akronim	Mungkin pemilu kali ini termasuk yang rumit di dunia.
+Singkatan dan Akronim	Sebaiknya kita periksa ke puskesmas sebelum bertambah parah.
+Singkatan dan Akronim	Kita akan rapat panitia di ruang rapim.
+Singkatan dan Akronim	Teknologi rudal saat ini semakin canggih.
+Singkatan dan Akronim	Tadi pagi Budi mendapatkan surat tilang dari polisi.
+Angka dan Bilangan	Mereka menonton drama itu sampai tiga kali.
+Angka dan Bilangan	Koleksi perpustakaan itu lebih dari satu juta buku.
+Angka dan Bilangan	Di antara 72 anggota yang hadir, 52 orang setuju, 15 orang tidak setuju, dan 5 orang abstain.
+Angka dan Bilangan	Kendaraan yang dipesan untuk angkutan umum terdiri atas 50 bus, 100 minibus, dan 250 sedan.
+Angka dan Bilangan	Lima puluh siswa teladan mendapat beasiswa dari pemerintah daerah.
+Angka dan Bilangan	Tiga pemenang sayembara itu diundang ke Jakarta.
+Angka dan Bilangan	Panitia mengundang 250 orang peserta.
+Angka dan Bilangan	Di lemari itu tersimpan 25 naskah kuno.
+Angka dan Bilangan	Dia mendapatkan bantuan 250 juta rupiah untuk mengembangkan usahanya.
+Angka dan Bilangan	Perusahaan itu baru saja mendapat pinjaman 550 miliar rupiah.
+Angka dan Bilangan	Proyek pemberdayaan ekonomi rakyat itu memerlukan biaya Rp10 triliun.
+Angka dan Bilangan	Jumlahnya 0,5 sentimeter 
+Angka dan Bilangan	Jumlahnya 5 kilogram 
+Angka dan Bilangan	Jumlahnya 4 hektare 
+Angka dan Bilangan	Jumlahnya 10 liter 
+Angka dan Bilangan	Jumlahnya 2 tahun 6 bulan 5 hari 
+Angka dan Bilangan	Jumlahnya 1 jam 20 menit
+Angka dan Bilangan	Jumlahnya Rp5.000,00 
+Angka dan Bilangan	Jumlahnya US$3,50 
+Angka dan Bilangan	Jumlahnya £5,10 
+Angka dan Bilangan	Jumlahnya ¥100
+Angka dan Bilangan	Jalan Tanah Abang I No. 15 atau Jalan Tanah Abang I/15 
+Angka dan Bilangan	Jalan Wijaya No. 14 
+Angka dan Bilangan	Hotel Mahameru, Kamar 169 
+Angka dan Bilangan	Gedung Samudra, Lantai II, Ruang 201
+Angka dan Bilangan	Bab X, Pasal 5, halaman 252 
+Angka dan Bilangan	Surah Yasin: 9 
+Angka dan Bilangan	Markus 16: 15—16
+Angka dan Bilangan	Total hanya dua belas orang.
+Angka dan Bilangan	Mereka berjumlah tiga puluh orang.
+Angka dan Bilangan	Tukar pecahan lima ribu.
+Angka dan Bilangan	Hanya setengah yang tersisa disini.
+Angka dan Bilangan	Untuk dia dapat seperdua dari bagian saya.
+Angka dan Bilangan	Satu orang mendapatkan seperenam belas bagian.
+Angka dan Bilangan	Dia biasa menggunakan celana tiga perempat.
+Angka dan Bilangan	Jatahnya hanya dua persepuluh saja.
+Angka dan Bilangan	Silahkan ambil sebanyak tiga dua-pertiga.
+Angka dan Bilangan	Silahkan ambil sebanyak satu persen.
+Angka dan Bilangan	Silahkan ambil sebanyak satu permil
+Angka dan Bilangan	Kita sudah memasuki abad XX.
+Angka dan Bilangan	Kita sudah memasuki abad ke-20.
+Angka dan Bilangan	Kita sudah memasuki abad kedua puluh.
+Angka dan Bilangan	Perang Dunia II.
+Angka dan Bilangan	Perang Dunia Ke-2.
+Angka dan Bilangan	Perang Dunia Kedua.
+Angka dan Bilangan	Lima lembar uang 1.000-an.
+Angka dan Bilangan	Mulai tahun 1950-an.
+Angka dan Bilangan	Tukar uang 5.000-an.
+Angka dan Bilangan	Setiap orang yang menyebarkan atau mengedarkan rupiah tiruan, sebagaimana dimaksud dalam Pasal 23 ayat (2), dipidana dengan pidana kurungan paling lama 1 (satu) tahun dan pidana denda paling banyak Rp200.000.000,00 (dua ratus juta rupiah). 
+Angka dan Bilangan	Telah diterima uang sebanyak Rp2.950.000,00 (dua juta sembilan ratus lima puluh ribu rupiah) untuk pembayaran satu unit televisi.
+Angka dan Bilangan	Saya lampirkan tanda terima uang sebesar Rp900.500,50 (sembilan ratus ribu lima ratus rupiah lima puluh sen).
+Angka dan Bilangan	Bukti pembelian barang seharga Rp5.000.000,00 (lima juta rupiah) ke atas harus dilampirkan pada laporan pertanggungjawaban.
+Angka dan Bilangan	Kami belanja ke pasar Kelapadua.
+Angka dan Bilangan	Kampung kami ada di Kotonanampek .
+Angka dan Bilangan	Berlibur ke Rajaampat termasuk mahal?
+Angka dan Bilangan	Situasi di Simpanglima sangat macet.
+Angka dan Bilangan	PT. Tigaraksa Satria Tbk merupakan salah satu perusahaan yang bergerak dalam bidang penyedia perlengkapan rumah tangga. 
+Kata Ganti	Rumah itu telah kujual. 
+Kata Ganti	Majalah ini boleh kaubaca. 
+Kata Ganti	Bukuku, bukumu, dan bukunya tersimpan di perpustakaan. 
+Kata Ganti	Rumahnya sedang diperbaiki.
+Kata Sandang	Surat itu dikembalikan kepada si pengirim. 
+Kata Sandang	Toko itu memberikan hadiah kepada si pembeli. 
+Kata Sandang	Ibu itu menghadiahi sang suami kemeja batik. 
+Kata Sandang	Sang adik mematuhi nasihat sang kakak. 
+Kata Sandang	Harimau itu marah sekali kepada sang Kancil. 
+Kata Sandang	Dalam cerita itu si Buta berhasil menolong kekasihnya.
+Kata Sandang	Kita harus berserah diri kepada Sang Pencipta. 
+Kata Sandang	Pura dibangun oleh umat Hindu untuk memuja Sang Hyang Widhi Wasa.
+Tanda Titik	Mereka duduk di sana. 
+Tanda Titik	Dia akan datang pada pertemuan itu.
+Tanda Titik	I. Kondisi Kebahasaan di Indonesia 
+Tanda Titik	A. Bahasa Indonesia 
+Tanda Titik	1. Kedudukan 
+Tanda Titik	2. Fungsi
+Tanda Titik	B. Bahasa Daerah 
+Tanda Titik	1. Kedudukan 
+Tanda Titik	2. Fungsi
+Tanda Titik	C. Bahasa Asing 
+Tanda Titik	1. Kedudukan 
+Tanda Titik	2. Fungsi
+Tanda Titik	1. Patokan Umum 
+Tanda Titik	1.1 Isi Karangan 
+Tanda Titik	1.2 Ilustrasi 
+Tanda Titik	1.2.1 Gambar Tangan 
+Tanda Titik	1.2.2 Tabel 
+Tanda Titik	1.2.3 Grafik 
+Tanda Titik	2. Patokan Khusus
+Tanda Titik	Bahasa Indonesia berkedudukan sebagai 
+Tanda Titik	1) bahasa nasional yang berfungsi, antara lain, 
+Tanda Titik	a) lambang kebanggaan nasional, 
+Tanda Titik	b) identitas nasional, dan 
+Tanda Titik	c) alat pemersatu bangsa; 
+Tanda Titik	2) bahasa negara
+Tanda Titik	Tabel 1 Kondisi Kebahasaan di Indonesia 
+Tanda Titik	Tabel 1.1 Kondisi Bahasa Daerah di Indonesia 
+Tanda Titik	Bagan 2 Struktur Organisasi 
+Tanda Titik	Bagan 2.1 Bagian Umum 
+Tanda Titik	Grafik 4 Sikap Masyarakat Perkotaan terhadap Bahasa Indonesia 
+Tanda Titik	Grafik 4.1 Sikap Masyarakat Berdasarkan Usia 
+Tanda Titik	Gambar 1 Gedung Cakrawala 
+Tanda Titik	Gambar 1.1 Ruang Rapat
+Tanda Titik	pukul 01.35.20
+Tanda Titik	01.35.20 jam
+Tanda Titik	00.20.30 jam
+Tanda Titik	00.00.30 jam
+Tanda Titik	Pusat Bahasa, Departemen Pendidikan Nasional. 2008. Peta Bahasa di Negara Kesatuan Republik Indonesia. Jakarta.
+Tanda Titik	Moeliono, Anton M. 1989. Kembara Bahasa. Jakarta: Gramedia.
+Tanda Titik	Indonesia memiliki lebih dari 13.000 pulau. 
+Tanda Titik	Penduduk kota itu lebih dari 7.000.000 orang. 
+Tanda Titik	Anggaran lembaga itu mencapai Rp225.000.000.000,00.
+Tanda Titik	Dia lahir pada tahun 1956 di Bandung.
+Tanda Titik	Kata sila terdapat dalam Kamus Besar Bahasa Indonesia Pusat Bahasa halaman 1305. 
+Tanda Titik	Nomor rekening panitia seminar adalah 0015645678.
+Tanda Titik	Acara Kunjungan Menteri Pendidikan dan Kebudayaan 
+Tanda Titik	Bentuk dan Kedaulatan (Bab I UUD 1945) 
+Tanda Titik	Gambar 3 Alat Ucap Manusia 
+Tanda Titik	Tabel 5 Sikap Bahasa Generasi Muda Berdasarkan Pendidikan
+Tanda Titik	Yth. Direktur Taman Ismail Marzuki Jalan Cikini Raya No. 73 Menteng Jakarta 10330
+Tanda Titik	Yth. Kepala Badan Pengembangan dan Pembinaan Bahasa Jalan Daksinapati Barat IV Rawamangun Jakarta Timur
+Tanda Titik	Indrawati, M.Hum. Jalan Cempaka II No. 9 Jakarta Timur
+Tanda Titik	21 April 2013
+Tanda Titik	Jakarta, 15 Mei 2013
+Tanda Koma	Telepon seluler, komputer, atau internet bukan barang asing lagi. 
+Tanda Koma	Buku, majalah, dan jurnal termasuk sumber kepustakaan. 
+Tanda Koma	Satu, dua, tiga!
+Tanda Koma	Saya ingin membeli kamera, tetapi uang saya belum cukup. 
+Tanda Koma	Ini bukan milik saya, melainkan milik ayah saya. 
+Tanda Koma	Dia membaca cerita pendek, sedangkan adiknya melukis panorama.
+Tanda Koma	Kalau diundang, saya akan datang. 
+Tanda Koma	Karena baik hati, dia mempunyai banyak teman. 
+Tanda Koma	Agar memiliki wawasan yang luas, kita harus banyak membaca buku.
+Tanda Koma	Saya akan datang kalau diundang. 
+Tanda Koma	Dia mempunyai banyak teman karena baik hati. 
+Tanda Koma	Kita harus banyak membaca buku agar memiliki wawasan yang luas.
+Tanda Koma	Mahasiswa itu rajin dan pandai. Oleh karena itu, dia memperoleh beasiswa belajar di luar negeri. 
+Tanda Koma	Anak itu memang rajin membaca sejak kecil. Jadi, wajar kalau dia menjadi bintang pelajar 
+Tanda Koma	Orang tuanya kurang mampu. Meskipun demikian, anak-anaknya berhasil menjadi sarjana.
+Tanda Koma	O, begitu? 
+Tanda Koma	Wah, bukan main! 
+Tanda Koma	Hati-hati, ya, jalannya licin! 
+Tanda Koma	Nak, kapan selesai kuliahmu? 
+Tanda Koma	Siapa namamu, Dik? 
+Tanda Koma	Dia baik sekali, Bu.
+Tanda Koma	Kata nenek saya, "Kita harus berbagi dalam hidup ini." 
+Tanda Koma	"Kita harus berbagi dalam hidup ini," kata nenek saya, "karena manusia adalah makhluk sosial."
+Tanda Koma	"Di mana Saudara tinggal?" tanya Pak Lurah. 
+Tanda Koma	"Masuk ke dalam kelas sekarang!" perintahnya. 
+Tanda Koma	"Wow, indahnya pantai ini!" seru wisatawan itu.
+Tanda Koma	Sdr. Abdullah, Jalan Kayumanis III/18, Kelurahan Kayumanis, Kecamatan Matraman, Jakarta 13130 
+Tanda Koma	Dekan Fakultas Kedokteran, Universitas Indonesia, Jalan Salemba Raya 6, Jakarta 
+Tanda Koma	Surabaya, 10 Mei 1960 
+Tanda Koma	Tokyo, Jepang
+Tanda Koma	Gunawan, Ilham. 1984. Kamus Politik Internasional. Jakarta: Restu Agung. 
+Tanda Koma	Halim, Amran (Ed.) 1976. Politik Bahasa Nasional. Jilid 1. Jakarta: Pusat Bahasa.
+Tanda Koma	Tulalessy, D. dkk. 2005. Pengembangan Potensi Wisata Bahari di Wilayah Indonesia Timur. Ambon: Mutiara Beta.
+Tanda Koma	Sutan Takdir Alisjahbana, Tata Bahasa Baru Bahasa Indonesia, Jilid 2 (Jakarta: Pustaka Rakyat, 1950), hlm. 25.
+Tanda Koma	Hadikusuma Hilman, Ensiklopedi Hukum Adat dan Adat Budaya Indonesia (Bandung: Alumni, 1977), hlm. 12.
+Tanda Koma	W.J.S. Poerwadarminta, Bahasa Indonesia untuk Karang-mengarang (Jogjakarta: UP Indonesia, 1967), hlm. 4.
+Tanda Koma	Namanya adalah B. Ratulangi, S.E. 
+Tanda Koma	Namanya adalah Ny. Khadijah, M.A. 
+Tanda Koma	Namanya adalah Bambang Irawan, M.Hum. 
+Tanda Koma	Namanya adalah Siti Aminah, S.H., M.H.
+Tanda Koma	Namanya adalah Siti Khadijah M.A.
+Tanda Koma	Panjangnya adalah 12,5 m 
+Tanda Koma	Beratnya adalah 27,3 kg 
+Tanda Koma	Jumlahnya adalah Rp500,50 
+Tanda Koma	Jumlahnya adalah Rp750,00
+Tanda Koma	Di daerah kami, Misalnya, masih banyak bahan tambang yang belum diolah.
+Tanda Koma	Semua siswa, baik laki-laki maupun perempuan, harus mengikuti latihan paduan suara. 
+Tanda Koma	Soekarno, Presiden I RI, merupakan salah seorang pendiri Gerakan Nonblok.
+Tanda Koma	Pejabat yang bertanggung jawab, sebagaimana dimaksud pada ayat (3), wajib menindaklanjuti laporan dalam waktu paling lama tujuh hari.
+Tanda Koma	Siswa yang lulus dengan nilai tinggi akan diterima di perguruan tinggi itu tanpa melalui tes.
+Tanda Koma	Dalam pengembangan bahasa, kita dapat memanfaatkan bahasa daerah. 
+Tanda Koma	Atas perhatian Saudara, kami ucapkan terima kasih.
+Tanda Koma	Dalam pengembangan bahasa kita dapat memanfaatkan bahasa daerah. 
+Tanda Koma	Atas perhatian Saudara kami ucapkan terima kasih.
+Tanda Titik Koma	Hari sudah malam; anak-anak masih membaca buku. 
+Tanda Titik Koma	Ayah menyelesaikan pekerjaan; Ibu menulis makalah; Adik membaca cerita pendek.
+Tanda Titik Koma	Syarat penerimaan pegawai di lembaga ini adalah (1) berkewarganegaraan Indonesia; (2) berijazah sarjana S-1; (3) berbadan sehat; dan (4) bersedia ditempatkan di seluruh wilayah Negara Kesatuan Republik Indonesia.
+Tanda Titik Koma	Ibu membeli buku, pensil, dan tinta; baju, celana, dan kaus; pisang, apel, dan jeruk. 
+Tanda Titik Koma	Agenda rapat ini meliputi a. pemilihan ketua, sekretaris, dan bendahara; b. penyusunan anggaran dasar, anggaran rumah tangga, dan program kerja; dan c. pendataan anggota, dokumentasi, dan aset organisasi.
+Tanda Titik Dua	Mereka memerlukan perabot rumah tangga: kursi, meja, dan lemari. 
+Tanda Titik Dua	Hanya ada dua pilihan bagi para pejuang kemerdekaan: hidup atau mati.
+Tanda Titik Dua	Kita memerlukan kursi, meja, dan lemari. 
+Tanda Titik Dua	Tahap penelitian yang harus dilakukan meliputi a. persiapan, b. pengumpulan data, c. pengolahan data, dan d. pelaporan.
+Tanda Titik Dua	Ketua : Ahmad Wijaya
+Tanda Titik Dua	Sekretaris : Siti Aryani 
+Tanda Titik Dua	Bendahara : Aulia Arimbi
+Tanda Titik Dua	Narasumber : Prof. Dr. Rahmat Effendi 
+Tanda Titik Dua	Pemandu : Abdul Gani, M.Hum. 
+Tanda Titik Dua	Pencatat : Sri Astuti Amelia, S.Pd.
+Tanda Titik Dua	Ibu : "Bawa koper ini, Nak!" 
+Tanda Titik Dua	Amir : "Baik, Bu." 
+Tanda Titik Dua	Ibu : "Jangan lupa, letakkan baik-baik!"
+Tanda Titik Dua	Horison, XLIII, No. 8/2008: 8 
+Tanda Titik Dua	Surah Albaqarah: 2—5 
+Tanda Titik Dua	Matius 2: 1—3 
+Tanda Titik Dua	Dari Pemburu ke Terapeutik: Antologi Cerpen Nusantara 
+Tanda Titik Dua	Pedoman Umum Pembentukan Istilah. Jakarta: Pusat Bahasa.
+Tanda Hubung	Di samping cara lama, diterapkan juga ca-ra baru
+Tanda Hubung	Nelayan pesisir itu berhasil membudidayakan rum-put laut. 
+Tanda Hubung	Kini ada cara yang baru untuk meng-ukur panas. 
+Tanda Hubung	Parut jenis ini memudahkan kita me-ngukur kelapa.
+Tanda Hubung	Kita masih anak-anak, jangan ikut camput.
+Tanda Hubung	Sudah diberitahu berulang-ulang masih saja lupa.
+Tanda Hubung	Perhatikan pipinya kemerah-merahan karena dipuji.
+Tanda Hubung	Kucing itu terlihat mengorek-ngorek sampah.
+Tanda Hubung	Tanggal 11-11-2013 
+Tanda Hubung	p-a-n-i-t-i-a
+Tanda Hubung	ber-evolusi
+Tanda Hubung	meng-ukur 
+Tanda Hubung	dua-puluh-lima ribuan (25 x 1.000) 
+Tanda Hubung	23/25 (dua-puluh-tiga perdua-puluh-lima) 
+Tanda Hubung	mesin hitung-tangan
+Tanda Hubung	be-revolusi 
+Tanda Hubung	me-ngukur 
+Tanda Hubung	dua-puluh lima-ribuan (20 x 5.000) 
+Tanda Hubung	20 3/25 (dua-puluh tiga perdua-puluh-lima) 
+Tanda Hubung	mesin-hitung tangan
+Tanda Hubung	se-Indonesia, se-Jawa Barat
+Tanda Hubung	tahun 1950-an
+Tanda Hubung	Menjelang hari-H, 
+Tanda Hubung	Terpapar sinar-X, 
+Tanda Hubung	Semua yang ber-KTP, 
+Tanda Hubung	Harus di-SK-kan
+Tanda Hubung	Semua ciptaan-Nya, 
+Tanda Hubung	atas rahmat-Mu
+Tanda Hubung	Tingkat D-3, 
+Tanda Hubung	Tingkat S-1, 
+Tanda Hubung	Tingkat S-2
+Tanda Hubung	Ini KTP-mu, 
+Tanda Hubung	Itu SIM-nya, 
+Tanda Hubung	Mana STNK-ku?
+Tanda Hubung	Pegawai BNP2TKI
+Tanda Hubung	Mahasiswa LP3I
+Tanda Hubung	Perlengkapan P3K
+Tanda Hubung	Saya di-sowan-i 
+Tanda Hubung	Kami ber-pariban
+Tanda Hubung	Harus di-back up
+Tanda Hubung	Dengan cara me-recall
+Tanda Hubung	Melakukan pen-tackle-an
+Tanda Hubung	Kata pasca- berasal dari bahasa Sanskerta. 
+Tanda Hubung	Akhiran -isasi pada kata betonisasi sebaiknya diubah menjadi pembetonan.
+Tanda Pisah	Kemerdekaan bangsa itu—saya yakin akan tercapai—diperjuangkan oleh bangsa itu sendiri. 
+Tanda Pisah	Keberhasilan itu—kita sependapat—dapat dicapai jika kita mau berusaha keras.
+Tanda Pisah	Soekarno-Hatta—Proklamator Kemerdekaan RI—diabadikan menjadi nama bandar udara internasional. 
+Tanda Pisah	Rangkaian temuan ini—evolusi, teori kenisbian, dan pembelahan atom—telah mengubah konsepsi kita tentang alam semesta. 
+Tanda Pisah	Gerakan Pengutamaan Bahasa Indonesia—amanat Sumpah Pemuda—harus terus digelorakan.
+Tanda Pisah	Tahun 2010—2013 
+Tanda Pisah	Tanggal 5—10 April 2013 
+Tanda Pisah	Jakarta—Bandung
+Tanda Pisah	Kemerdekaan bangsa itu–saya yakin akan tercapai–diperjuangkan oleh bangsa itu sendiri. 
+Tanda Pisah	Keberhasilan itu–kita sependapat–dapat dicapai jika kita mau berusaha keras.
+Tanda Pisah	Soekarno-Hatta–Proklamator Kemerdekaan RI–diabadikan menjadi nama bandar udara internasional. 
+Tanda Pisah	Rangkaian temuan ini–evolusi, teori kenisbian, dan pembelahan atom–telah mengubah konsepsi kita tentang alam semesta. 
+Tanda Pisah	Gerakan Pengutamaan Bahasa Indonesia–amanat Sumpah Pemuda–harus terus digelorakan.
+Tanda Pisah	Tahun 2010–2013 
+Tanda Pisah	Tanggal 5–10 April 2013 
+Tanda Pisah	Jakarta–Bandung
+Tanda Tanya	Kapan Hari Pendidikan Nasional diperingati? 
+Tanda Tanya	Siapa pencipta lagu "Indonesia Raya"?
+Tanda Tanya	Monumen Nasional mulai dibangun pada tahun 1961 (?). 
+Tanda Tanya	Di Indonesia terdapat 740 (?) bahasa daerah.
+Tanda Seru	Alangkah indahnya taman laut di Bunaken! 
+Tanda Seru	Mari kita dukung Gerakan Cinta Bahasa Indonesia! 
+Tanda Seru	Bayarlah pajak tepat pada waktunya! 
+Tanda Seru	Masa! Dia bersikap seperti itu? 
+Tanda Seru	Merdeka!
+Tanda Elipsis	Penyebab kemerosotan ... akan diteliti lebih lanjut. 
+Tanda Elipsis	Dalam Undang-Undang Dasar 1945 disebutkan bahwa bahasa negara ialah ...
+Tanda Elipsis	..., lain lubuk lain ikannya.
+Tanda Elipsis	"Menurut saya ... seperti ... bagaimana, Bu?" 
+Tanda Elipsis	"Jadi, simpulannya ... oh, sudah saatnya istirahat."
+Tanda Petik	"Merdeka atau mati!" seru Bung Tomo dalam pidatonya. 
+Tanda Petik	"Kerjakan tugas ini sekarang!" perintah atasannya. "Besok akan dibahas dalam rapat."
+Tanda Petik	Menurut Pasal 31 Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, "Setiap warga negara berhak memperoleh pendidikan."
+Tanda Petik	Sajak "Pahlawanku" terdapat pada halaman 125 buku itu. 
+Tanda Petik	Marilah kita menyanyikan lagu "Maju Tak Gentar"! 
+Tanda Petik	Film "Ainun dan Habibie" merupakan kisah nyata yang diangkat dari sebuah novel.
+Tanda Petik	Saya sedang membaca "Peningkatan Mutu Daya Ungkap Bahasa Indonesia" dalam buku Bahasa Indonesia Menuju Masyarakat Madani. 
+Tanda Petik	Makalah "Pembentukan Insan Cerdas Kompetitif" menarik perhatian peserta seminar. 
+Tanda Petik	Perhatikan "Pemakaian Tanda Baca" dalam buku Pedoman Umum Ejaan Bahasa Indonesia yang Disempurnakan.
+Tanda Petik	"Tetikus" komputer ini sudah tidak berfungsi. 
+Tanda Petik	Dilarang memberikan "amplop" kepada petugas!
+Tanda Petik Tunggal	Tanya dia, "Kaudengar bunyi 'kring-kring' tadi?" 
+Tanda Petik Tunggal	"Kudengar teriak anakku, 'Ibu, Bapak pulang!', dan rasa letihku lenyap seketika," ujar Pak Hamdan.
+Tanda Petik Tunggal	"Kita bangga karena lagu 'Indonesia Raya' berkumandang di arena olimpiade itu," kata Ketua KONI.
+Tanda Kurung	Dia memperpanjang surat izin mengemudi (SIM). 
+Tanda Kurung	Warga baru itu belum memiliki KTP (kartu tanda penduduk). 
+Tanda Kurung	Lokakarya (workshop) itu diadakan di Manado.
+Tanda Kurung	Sajak Tranggono yang berjudul "Ubud" (nama tempat yang terkenal di Bali) ditulis pada tahun 1962. 
+Tanda Kurung	Keterangan itu (lihat Tabel 10) menunjukkan arus perkembangan baru pasar dalam negeri.
+Tanda Kurung	Dia berangkat ke kantor selalu menaiki (bus) Transjakarta. 
+Tanda Kurung	Pesepak bola kenamaan itu berasal dari (Kota) Padang.
+Tanda Kurung	Faktor produksi menyangkut (a) bahan baku, (b) biaya produksi, dan (c) tenaga kerja. 
+Tanda Kurung	Dia harus melengkapi berkas lamarannya dengan melampirkan (1) akta kelahiran, (2) ijazah terakhir, dan (3) surat keterangan kesehatan.
+Tanda Kurung Siku	Sang Sapurba men[d]engar bunyi gemerisik. 
+Tanda Kurung Siku	Penggunaan bahasa dalam karya ilmiah harus sesuai [dengan] kaidah bahasa Indonesia. 
+Tanda Kurung Siku	Ulang tahun [Proklamasi Kemerdekaan] Republik Indonesia dirayakan secara khidmat.
+Tanda Kurung Siku	Persamaan kedua proses itu (perbedaannya dibicarakan di dalam Bab II [lihat halaman 35─38]) perlu dibentangkan di sini.
+Tanda Garis Miring	Nomor: 7/PK/II/2013 
+Tanda Garis Miring	Jalan Kramat III/10 
+Tanda Garis Miring	tahun ajaran 2012/2013
+Tanda Garis Miring	mahasiswa/mahasiswi
+Tanda Garis Miring	dikirimkan lewat darat/laut
+Tanda Garis Miring	buku dan/atau majalah
+Tanda Garis Miring	harganya Rp1.500,00/lembar
+Tanda Garis Miring	Buku Pengantar Ling/g/uistik karya Verhaar dicetak beberapa kali. 
+Tanda Garis Miring	Asmara/n/dana merupakan salah satu tembang macapat budaya Jawa. 
+Tanda Garis Miring	Dia sedang menyelesaikan /h/utangnya di bank.
+Apostrof	Dia 'kan kusurati. 
+Apostrof	Mereka sudah datang, 'kan? 
+Apostrof	Malam 'lah tiba. 
+Apostrof	Tanggal 5-2-'13 
