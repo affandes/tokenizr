@@ -1,5 +1,5 @@
 import re
 
-def tokenize(teks):
-    words = [unit for unit in teks.split()]
-    return words
+def tokenisasi_kata_spasi(teks):
+    kata = [unit for unit in teks.split()]
+    return kata

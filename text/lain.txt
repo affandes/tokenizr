@@ -1,0 +1,34 @@
+'Rektor Prof. Dr. H. Akhmad Mujahiddin, S.Ag, M.A memberi kata sambutan pada Upacara Peringatan '
+'Hari Pancasila. Beliau menyampaikan perlunya meningkatkan Akreditasi UIN Sultan Syarif Kasim Riau. '
+'Kampus yang beralamat di Jl. H.R. Soebrantas, km 15 no.150, Panam, Pekanbaru ini merupakan satu-satunya '
+'universitas keagamaan Islam yang berstatus negeri di Provinsi Riau.',
+'Untuk mewujudkan itu, Rektor berkomitmen untuk mendukung sepenuhnya seluruh program studi '
+'dalam menyusun borang akreditasi dengan membuka nomor kontak khusus Rektor di nomor 081175375373 '
+'dan WhatsApp di nomor 081178945600. Nomor layanan ini akan dibuka mulai pukul 8:00 sampai 16:30 WIB.',
+'bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan '
+'Menteri Pendidikan dan Kebudayaan tentang Pedoman Umum Ejaan Bahasa Indonesia',
+'Peraturan Presiden Nomor 14 Tahun 2015 tentang Kementerian Pendidikan dan Kebudayaan '
+'(Lembaran Negara Republik Indonesia Tahun 2015 Nomor 15); ',
+'Keputusan Presiden Nomor 121/P/2014 tentang Kabinet Kerja periode tahun 2014 - 2019 '
+'sebagaimana telah diubah dengan Keputusan Presiden Nomor 79/P Tahun 2015 tentang '
+'Penggantian Beberapa Menteri Negara Kabinet Kerja Periode Tahun 2014 - 2019; ',
+'Ya, Tuhan, bimbinglah hamba-Mu ke jalan yang Engkau beri rahmat. ',
+'Gaya bahasanya keinggris-inggrisan.',
+'Kondisi kebahasaan di Indonesia yang diwarnai oleh satu bahasa standar dan ratusan '
+'bahasa daerah - ditambah beberapa bahasa asing, terutama bahasa Inggris - membutuhkan '
+'penanganan yang tepat dalam perencanaan bahasa. Agar lebih jelas, latar belakang dan '
+'masalah akan diuraikan secara terpisah seperti tampak pada paparan berikut. ',
+'Email affandes@uin-suska.ac.id harus jadi 1 token, walaupun disana ada tanda titik.',
+'Total belanjaan anda Rp15.000,- diskon 5% menjadi Rp14.250,-',
+'Akun Twitter @affandes sudah lama tidak aktif ....',
+'Muhammad Affandes, S.T., M.T.',
+'lima lembar uang 1.000-an',
+'Bukti pembelian barang seharga Rp5.000.000,00',
+'Bagaimana jika ada tanda tanya di akhir kalimat?',
+'"Kita harus berbagi dalam hidup ini," kata nenek saya, "karena manusia adalah makhluk sosial."',
+'Kata dan/atau seharusnya menjadi 3 token yang terpisah',
+'Berat badan saya 64,5 kg',
+'Tanda koma dapat dipakai di belakang keterangan yang terdapat pada awal kalimat '
+'untuk menghindari salah baca/salah pengertian.',
+'Tanggal lahir: 11-11-2003',
+'harganya Rp1.500,00/lembar—'
