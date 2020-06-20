@@ -272,7 +272,7 @@ Angka dan Bilangan	Telah diterima uang sebanyak Rp2.950.000,00 (dua juta sembila
 Angka dan Bilangan	Saya lampirkan tanda terima uang sebesar Rp900.500,50 (sembilan ratus ribu lima ratus rupiah lima puluh sen).
 Angka dan Bilangan	Bukti pembelian barang seharga Rp5.000.000,00 (lima juta rupiah) ke atas harus dilampirkan pada laporan pertanggungjawaban.
 Angka dan Bilangan	Kami belanja ke pasar Kelapadua.
-Angka dan Bilangan	Kampung kami ada di Kotonanampek .
+Angka dan Bilangan	Kampung kami ada di Kotonanampek.
 Angka dan Bilangan	Berlibur ke Rajaampat termasuk mahal?
 Angka dan Bilangan	Situasi di Simpanglima sangat macet.
 Angka dan Bilangan	PT. Tigaraksa Satria Tbk merupakan salah satu perusahaan yang bergerak dalam bidang penyedia perlengkapan rumah tangga. 
@@ -504,7 +504,7 @@ Tanda Petik	Makalah "Pembentukan Insan Cerdas Kompetitif" menarik perhatian pese
 Tanda Petik	Perhatikan "Pemakaian Tanda Baca" dalam buku Pedoman Umum Ejaan Bahasa Indonesia yang Disempurnakan.
 Tanda Petik	"Tetikus" komputer ini sudah tidak berfungsi. 
 Tanda Petik	Dilarang memberikan "amplop" kepada petugas!
-Tanda Petik Tunggal	Tanya dia, "Kaudengar bunyi 'kring-kring' tadi?" 
+Tanda Petik Tunggal	Tanya dia, "Kaudengar bunyi 'kring-kring' tadi?"
 Tanda Petik Tunggal	"Kudengar teriak anakku, 'Ibu, Bapak pulang!', dan rasa letihku lenyap seketika," ujar Pak Hamdan.
 Tanda Petik Tunggal	"Kita bangga karena lagu 'Indonesia Raya' berkumandang di arena olimpiade itu," kata Ketua KONI.
 Tanda Kurung	Dia memperpanjang surat izin mengemudi (SIM). 
@@ -528,9 +528,14 @@ Tanda Garis Miring	dikirimkan lewat darat/laut
 Tanda Garis Miring	buku dan/atau majalah
 Tanda Garis Miring	harganya Rp1.500,00/lembar
 Tanda Garis Miring	Buku Pengantar Ling/g/uistik karya Verhaar dicetak beberapa kali. 
-Tanda Garis Miring	Asmara/n/dana merupakan salah satu tembang macapat budaya Jawa. 
+Tanda Garis Miring	Asmara/n/dana merupakan /salah satu/ tembang macapat budaya Jawa.
 Tanda Garis Miring	Dia sedang menyelesaikan /h/utangnya di bank.
-Apostrof	Dia 'kan kusurati. 
+Apostrof	Dia 'kan kusurati.
 Apostrof	Mereka sudah datang, 'kan? 
 Apostrof	Malam 'lah tiba. 
-Apostrof	Tanggal 5-2-'13 
+Apostrof	Tanggal 5-2-'13
+Lainnya	Ini uji kata Rp2.000,00/lembar
+Lainnya	Ini uji kata Bapak/Ibu/Sdr/i
+Lainnya	Ini uji kata Bapak-Bapak/Ibu-Ibu/Sdr/i
+Lainnya	Ini uji kata Cik/Puan/Tuan
+Lainnya	Ini uji kata 123/xx/13-d2/s-s-s/a
