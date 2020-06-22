@@ -3,7 +3,15 @@ import re
 
 __singkatan = [
     'Prof.',
+    'Dr.',
     'dr.',
+    'KH.',
+    'H.',
+    'Hj.',
+    'Tn.',
+    'Ny.',
+    'Bpk.',
+    'Sdr.',
     'Almh.',
     'almh.',
     'alm.',
@@ -17,16 +25,20 @@ __singkatan = [
     'Ybs.',
     'yth.',
     'Yth.',
+    'Ttd.',
     'ttd.',
     'dkk.',
     'd.a.',
     'c.q.',
     'u.b.',
+    'u.p.',
+    's.d.',
     'a.n.'
 ]
 
 __akronim = [
-    'Bappenas'
+    'Bappenas',
+    'Pemilu'
 ]
 
 
@@ -35,9 +47,10 @@ def is_singkatan_akronim(term):
            or term in __akronim \
            or __is_pola_singkatan_nama(term)
 
+
 def __is_pola_singkatan_nama(term):
-    if re.match(r"([A-Z]{1,2}[a-z]{0,2}[.])+",term):
-        #print term + " adalah pola singkatan"
+    if re.match(r"^[A-Z][a-z]*\.([A-Z][a-z]*\.)+$", term):
+        # print term + " adalah pola singkatan"
         return True
     else:
         return False

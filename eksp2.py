@@ -1,7 +1,7 @@
 # coding=utf-8
-import tokenizer.Tokenizer as tzr
 import os
-import csv
+
+import tokenizer.Tokenizer as tzr
 
 # Tentukan nama file input/output
 corpus_file_name = "text/puebi.txt"
@@ -20,7 +20,7 @@ with open(corpus_file_name) as file_csv:
         docs.append({'k': row[0], 't': row[1].strip()})
 
 # Tokenisasi menggunakan spasi dan pungtuasi
-results = [tzr.tokenisasi_kata_pungtuasi(doc['t']) for doc in docs]
+results = [tzr.tokenize_line(doc['t']) for doc in docs]
 
 # Simpan results ke file
 with open(output_file_name, "wb") as out_csv:
