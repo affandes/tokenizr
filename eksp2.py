@@ -1,4 +1,7 @@
 # coding=utf-8
+"""
+Ini koding untuk penelitian terbaru ya
+"""
 import os
 
 import tokenizer.Tokenizer as tzr
